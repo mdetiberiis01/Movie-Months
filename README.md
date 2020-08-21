@@ -20,14 +20,20 @@ The results below are from analyzing user reviews for over 2000 movies.
 ## Actionable Insight
 #### Make an Animated Action/Adventure Movie!
 ![](https://github.com/mdetiberiis01/Photos/blob/master/billion_dollar_movies.png)
-    *  If Microsoft is trying to make a Billion dollar movie this data shows that the way to make that happen would be to create an Animated Action/Adventure movie. 
-    * This data was taken from user reviews sentiment analysis to show that Action Adventure and Comedy are the movie genres that people enjoy the most.
+
+* If Microsoft is trying to make a Billion dollar movie this data shows that the way to make that happen would be to create an Animated Action/Adventure movie. 
+
+* This data was taken from user reviews sentiment analysis to show that Action Adventure and Comedy are the movie genres that people enjoy the most.
 ![](https://github.com/mdetiberiis01/Photos/blob/master/sentiment_by_genre.png)
+
 #### Make it a Summer Hit!
-   * The data shows movies make the most money if they premier in June.
+* The data shows movies make the most money if they premier in June.
+   
 ![](https://github.com/mdetiberiis01/Photos/blob/master/profit_by_month.png)
+
 #### Third week of June release date!
-   * The most profitable day to premier is the 22nd of the month, but between all of the billion dollar grossing movies the averge premier date is th 14th. The third week of June is a good target time frame.
+* The most profitable day to premier is the 22nd of the month, but between all of the billion dollar grossing movies the averge premier date is th 14th. The third week of June is a good target time frame.
+   
 ![](https://github.com/mdetiberiis01/Photos/blob/master/profit_by_day.png)    
 
 ## Recommendations 
@@ -41,6 +47,7 @@ The results below are from analyzing user reviews for over 2000 movies.
 ## Future Work
 
 * In the hunt for a billion dollar movie I would like to see if there is any conection between specific actors and billion dollar grossing movies.
+
 * Refrence streaming service data to see how it compares to user review data. Are people only watching the shows they say they like?
 
 
