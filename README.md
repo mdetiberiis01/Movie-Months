@@ -19,9 +19,9 @@ The results below are from analyzing user reviews for over 2000 movies.
 
 ## Actionable Insight
 #### Make an Animated Action/Adventure Movie!
-![](https://github.com/mdetiberiis01/Photos/blob/master/billion_dollar_movies.png)
-
 * If Microsoft is trying to make a Billion dollar movie this data shows that the way to make that happen would be to create an Animated Action/Adventure movie. 
+
+![](https://github.com/mdetiberiis01/Photos/blob/master/billion_dollar_movies.png)
 
 * This data was taken from user reviews sentiment analysis to show that Action Adventure and Comedy are the movie genres that people enjoy the most.
 
