@@ -20,10 +20,8 @@ The results below are from analyzing user reviews for over 2000 movies.
 ## Actionable Insight
 * Make an Animated Action/Adventure Movie!
     *  If Microsoft is trying to make a Billion dollar movie they need to capitalize on the Action/Adventure genre's constant popularity along with the popularity of animated movies in this category. 
-    
-![Sentiment Genre]('/Users/markdetiberiis/Desktop/Movies-Data/sentiment_by_genre.png')
-    
     * This data was taken from user reviews sentimetn analysis as well as movie profit calculations.
+![Sent](https://github.com/mdetiberiis01/Photos/blob/master/billion_dollar_movies.png)
 * Make it a Summer Hit!
     * The data shows movies make the most money if they premier in June.
 * Third week of June release date!
