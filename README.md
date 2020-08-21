@@ -27,6 +27,22 @@ The results below are from analyzing user reviews for over 2000 movies.
    * The data shows movies make the most money if they premier in June.
 ![](https://github.com/mdetiberiis01/Photos/blob/master/profit_by_month.png)
 #### Third week of June release date!
-   *The most profitable day to premier is the 22nd of the month, but between all of the billion dollar grossing movies the averge premier date is th 14th. The third week of June is a good target time frame.
+   * The most profitable day to premier is the 22nd of the month, but between all of the billion dollar grossing movies the averge premier date is th 14th. The third week of June is a good target time frame.
 ![](https://github.com/mdetiberiis01/Photos/blob/master/profit_by_day.png)    
+
+## Recommendations 
+
+* Investing in the GCI Budget could yeild great returns similar to what was seen with Frozen and Minions merchandise.
+
+* If the characters have an exciting comforting design that kids would want on their backpacks, then we will have nailed this one!
+
+* Mold the story to be one that can be marketed to all children, but adults would also be interested in the story as the titles mentioned above did so well.
+
+## Future Work
+
+* In the hunt for a billion dollar movie I would like to see if there is any conection between specific actors and billion dollar grossing movies.
+* Refrence streaming service data to see how it compares to user review data. Are people only watching the shows they say they like?
+
+
+
 
