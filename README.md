@@ -1,4 +1,4 @@
-# Billion Dollar Movie Analysis
+# Billion-Dollar Movie Analysis
 
 
 ## Introduction
@@ -47,9 +47,9 @@ The results below are from analyzing user reviews for over 2000 movies.
 
 ## Future Work
 
-* In the hunt for a billion dollar movie I would like to see if there is any conection between specific actors and billion dollar grossing movies.
+* In the hunt for a billion-dollar movie I would like to see if there is any connection between specific actors and billion dollar grossing movies.
 
-* Refrence streaming service data to see how it compares to user review data. Are people only watching the shows they say they like?
+* Reference streaming service data to see how it compares to user review data. Are people only watching the shows they say they like?
 
 
 
