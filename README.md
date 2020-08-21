@@ -27,12 +27,11 @@ The results below are from analyzing user reviews for over 2000 movies.
 ![](https://github.com/mdetiberiis01/Photos/blob/master/sentiment_by_genre.png)
 
 #### Make it a Summer Hit!
-* The data shows movies make the most money if they premier in June.
-   
+* The data shows movies that premier in June make the most profit
 ![](https://github.com/mdetiberiis01/Photos/blob/master/profit_by_month.png)
 
 #### Third week of June release date!
-* The most profitable day to premier is the 22nd of the month, but between all of the billion dollar grossing movies the averge premier date is th 14th. The third week of June is a good target time frame.
+* The most profitable day to premier is the 22nd of the month, but between all of the billion dollar grossing movies the averge premier date is the 14th. The third week of June is a good target time frame.
    
 ![](https://github.com/mdetiberiis01/Photos/blob/master/profit_by_day.png)    
 
